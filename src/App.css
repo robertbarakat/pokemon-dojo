@@ -30,3 +30,13 @@
     transform: rotate(360deg);
   }
 }
+
+.alive{
+  float: left;
+  width: 50%
+}
+
+.dead{
+  width: 50%;
+  float: right
+}
